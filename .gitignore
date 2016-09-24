@@ -1,0 +1,9 @@
+.idea
+bower_components
+node_modules
+typings
+
+# Files created by the template compiler
+**/*.ngfactory.ts
+**/*.css.ts
+**/*.css.shim.ts

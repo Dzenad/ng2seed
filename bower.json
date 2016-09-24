@@ -1,0 +1,21 @@
+{
+  "name": "Angular2 QuickStart",
+  "description": "Angular2 Tryout",
+  "main": "",
+  "authors": [
+    "Dzenad Dedic <ddzenad@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
